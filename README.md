@@ -1,4 +1,4 @@
-### Steps to run the game
+### Steps to run the game:
 
 Install Node.js environment
 
