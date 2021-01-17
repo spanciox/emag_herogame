@@ -6,4 +6,4 @@ Clone this repo
 
 Start the game by issuing next command within a terminal window
 
-## npm start
+#### npm start
